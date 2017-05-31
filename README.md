@@ -1,15 +1,15 @@
 # bookList
 # [店铺](https://shop476821834.taobao.com/?spm=0.0.0.0)里的书单
-1. [精通正则表达式（第3版）]中文版.(美)
-2. GitHub 漫游指南
-3. IDEA注册码
-4. Learning Scrapy
-5. Mysql5权威指南
-6. Pro Git 中文版本
-7. Python核心编程
-8. Python网络数据采集
-9. Spring实战（第4版）
-10. SQLyog激活码
+1. [[精通正则表达式（第3版）]中文版.(美)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-16100903092.9.LHdHDI&id=546676256008)
+2. [GitHub 漫游指南](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-16100903092.9.Nk7foS&id=546566980665)
+3. [IDEA注册码](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-16100903092.9.iDGGlZ&id=546587159739)
+4. [Learning Scrapy](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-16100903092.9.ortPys&id=546710397964)
+5. [Mysql5权威指南](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-16100903092.9.1DNmA0&id=546480490095)
+6. [Pro Git 中文版本](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-16100903092.9.jjCZJ2&id=546639875004)
+7. [Python核心编程](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-16100903092.30.EqtHON&id=546485398931)
+8. [Python网络数据采集](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-16100903092.27.EqtHON&id=546617358566)
+9. [Spring实战（第4版）](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-16100903092.9.wQYlVg&id=546493488975)
+10. [算法导论](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-16100903092.12.i2uWG7&id=552132384376)
 11. 数据结构基础(C语言版) (第2版)
 12. 软考试题
 13. java编程思想（第四版）
@@ -61,4 +61,3 @@
 59. Database_database and persistence management
 60. 代码整洁之道
 61. 软件测试原理与实践
-62. 算法导论
