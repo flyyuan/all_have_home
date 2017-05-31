@@ -10,7 +10,7 @@
 
 # [店铺](https://shop476821834.taobao.com/?spm=0.0.0.0)
 # 目录
-* [Python]
+* [Python](#Python)
 # Python
 * [Python核心编程](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-16100903092.30.EqtHON&id=546485398931)
 * [Python网络数据采集](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-16100903092.27.EqtHON&id=546617358566)
