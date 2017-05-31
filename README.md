@@ -5,7 +5,7 @@
 * 学生党，打折
 
 # 参与交流
-欢迎大家将珍藏已久的经典免费书籍共享出来，您可以：
+欢迎大家将珍藏已久的经典书籍共享出来，您可以：
 * 使用 [Issues](https://github.com/niithub/all_have_home/issues) 以及 Pull Request
 
 # [店铺](https://shop476821834.taobao.com/?spm=0.0.0.0)
