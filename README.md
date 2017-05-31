@@ -9,6 +9,7 @@
 * 使用 [Issues](https://github.com/niithub/all_have_home/issues) 以及 Pull Request
 
 # [店铺](https://shop476821834.taobao.com/?spm=0.0.0.0)里的书单
+[TOP]
 1. [[精通正则表达式（第3版）]中文版.(美)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-16100903092.9.LHdHDI&id=546676256008)
 2. [GitHub 漫游指南](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-16100903092.9.Nk7foS&id=546566980665)
 3. [IDEA注册码](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-16100903092.9.iDGGlZ&id=546587159739)
