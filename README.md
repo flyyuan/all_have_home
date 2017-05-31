@@ -1,4 +1,6 @@
-# bookList
+# 皆有居
+* 每逢重大节日，打折
+* 学生党，打折
 # [店铺](https://shop476821834.taobao.com/?spm=0.0.0.0)里的书单
 1. [[精通正则表达式（第3版）]中文版.(美)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-16100903092.9.LHdHDI&id=546676256008)
 2. [GitHub 漫游指南](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-16100903092.9.Nk7foS&id=546566980665)
