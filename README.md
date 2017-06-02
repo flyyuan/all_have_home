@@ -38,6 +38,7 @@
 * [软考资料](#软考资料)
 * [贼影响程序的12本书籍](#贼影响程序的12本书籍)
 * [易语言](#易语言)
+* [操作系统](#操作系统)
 
 # Python
 * [Python核心编程](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-16100903092.30.EqtHON&id=546485398931)
@@ -148,7 +149,10 @@
 * [代码整洁之道](https://item.taobao.com/item.htm?spm=a1z10.5-c.w4002-16100903097.13.N5rEbh&id=552222935177)
 * [程序员修炼之道](https://item.taobao.com/item.htm?spm=a1z10.5-c.w4002-16100903097.10.N5rEbh&id=550342658044)
 * [IDEA注册码](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-16100903092.9.iDGGlZ&id=546587159739)
+* [代码之美](https://item.taobao.com/item.htm?spm=686.1000925.0.0.RPeR1O&id=552278952638)
 
 # 易语言
 * [易语言源代码大全1500多个源码]()
 
+# 操作系统
+* [深入理解计算机系统中文版](https://item.taobao.com/item.htm?spm=686.1000925.0.0.GF6bWq&id=552415595675)
