@@ -13,7 +13,7 @@
 * [Python](#Python)
 * [数据结构](#数据结构)
 * [java](#java)
-* [C](#C)
+* [C](#c)
 * [数据库]()
     * [MySQL](#MySQL)
     * [SQL](#SQL)
@@ -64,7 +64,7 @@
 * [Head First Java(中文版)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-16100903092.9.Rykeg3&id=547294479833)
 * [JAVA并发编程实践](https://item.taobao.com/item.htm?spm=686.1000925.0.0.99AZxm&id=552534671835)
 
-# C
+# c
 * [head first C](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-16100903092.9.QGEm27&id=547369003250)
 * [C语言的科学和艺术中文版]()
 * [C和指针](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-16100903092.15.CppsCg&id=551061027067)
