@@ -60,7 +60,7 @@
 * [算法导论（原书第三版）中文版](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-16100903092.9.k2pN4E&id=547369375802)
 
 # java
-* [java编程思想(第四版)]()
+* [java编程思想(第四版)](https://item.taobao.com/item.htm?spm=686.1000925.0.0.0pRmlI&id=546845096144)
 * [Head First Java(中文版)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-16100903092.9.Rykeg3&id=547294479833)
 * [JAVA并发编程实践](https://item.taobao.com/item.htm?spm=686.1000925.0.0.99AZxm&id=552534671835)
 
