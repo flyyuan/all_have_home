@@ -58,12 +58,13 @@
 * [数据结构基础(C语言版) (第2版)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-16100903092.9.bTOOMZ&id=546878073921)
 * [数据结构与算法Python语言描述](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-16100903092.9.Im15E0&id=546677760654)
 * [算法导论（原书第三版）中文版](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-16100903092.9.k2pN4E&id=547369375802)
+* [算法设计、分析与实现从入门到精通C、C++和JAVA](https://item.taobao.com/item.htm?spm=686.1000925.0.0.Ixm3Un&id=552458200923)
 
 # java
 * [java编程思想(第四版)](https://item.taobao.com/item.htm?spm=686.1000925.0.0.0pRmlI&id=546845096144)
 * [Head First Java(中文版)](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-16100903092.9.Rykeg3&id=547294479833)
 * [JAVA并发编程实践](https://item.taobao.com/item.htm?spm=686.1000925.0.0.99AZxm&id=552534671835)
-
+* [实战Java高并发程序设计](https://item.taobao.com/item.htm?spm=686.1000925.0.0.7iOOWT&id=552594179111)
 # c
 * [head first C](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-16100903092.9.QGEm27&id=547369003250)
 * [C语言的科学和艺术中文版]()
@@ -138,6 +139,7 @@
 
 # 软件测试
 * [软件测试原理与实践](https://item.taobao.com/item.htm?spm=a1z10.5-c.w4002-16100903097.10.uXH5ez&id=552245515942)
+* [单元测试之道Java版](https://item.taobao.com/item.htm?spm=686.1000925.0.0.Awr0Nm&id=552429756705)
 
 # UI设计
 * [认识与设计：理解UI设计准则](https://item.taobao.com/item.htm?spm=a1z10.5-c.w4002-16100903097.10.eFTwa8&id=550887108922)
