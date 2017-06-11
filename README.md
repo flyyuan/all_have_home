@@ -112,6 +112,8 @@
 # 机器学习
 * [Hadoop - The Definitive Guide(3rd)](https://item.taobao.com/item.htm?spm=a1z10.5-c.w4002-16100903097.14.sVwze2&id=547975037154)
 * [Mahout in Action](https://item.taobao.com/item.htm?spm=a1z10.5-c.w4002-16100903097.17.sVwze2&id=547936912643)
+* [R语言实战——机器学习与数据分析](https://item.taobao.com/item.htm?spm=686.1000925.0.0.UGcIbo&id=553105014431)
+* [机器学习_周志华](https://item.taobao.com/item.htm?spm=686.1000925.0.0.UGcIbo&id=553148595218)
 
 # 数据分析
 * [R和Ruby数据分析之旅](https://item.taobao.com/item.htm?spm=a1z10.5-c.w4002-16100903097.10.usot7i&id=550706249937)
